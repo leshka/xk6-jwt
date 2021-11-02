@@ -1,4 +1,4 @@
-module github.com/leshka/xk6-jwt
+module github.com/leshka/xk6-jwt-auth
 
 go 1.17
 
